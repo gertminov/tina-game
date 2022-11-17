@@ -32,7 +32,7 @@
 
 <div class="grow flex flex-col justify-center items-center gap-12">
     <div class="flex-1 flex flex-col justify-center content-center gap-4">
-        <p class="text-2xl text-white text-center">{right} of {words.length} correct</p>
+<!--        <p class="text-2xl text-white text-center">{right} of {words.length} correct</p>-->
         <h1 class="text-4xl text-white">{curQuest}</h1>
     </div>
         <div class="flex-1 flex items-center">

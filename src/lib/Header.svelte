@@ -1,2 +1,2 @@
 
-<h1 class="text-center text-white text-3xl">Tina's Quiz</h1>
+<h1 class="m-4 text-white text-3xl">Tina's Quiz</h1>
